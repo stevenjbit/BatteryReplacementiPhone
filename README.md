@@ -94,7 +94,7 @@ Most of these tools (except the glue and the hairdryer) will come included in an
   <img src="https://i.imgur.com/8RHcsPj.jpg" height="80%" width="80%" />
   <img src="https://i.imgur.com/e8oM4lV.jpg" height="80%" width="80%" />
   <img src="https://i.imgur.com/FeOAMg7.jpg" height="80%" width="80%" />
-  <img src="" height="80%" width="80%" />
+  <img src="https://i.imgur.com/Xd5z3VP.jpeg" height="80%" width="80%" />
   
 </details>
 
