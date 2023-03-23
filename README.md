@@ -101,7 +101,7 @@ Most of these tools (except the glue and the hairdryer) will come included in an
 It takes around 24 hours for the glue's bond to fully form, so either place it in the device's case to hold it in place, or use a pair of plastic clamps to hold it together for 24 hours.</br>
 <br>The device will likely require some cleaning with the spudger around the frame to remove excess glue, however it is advised to wait until 24 hours have passed to allow for a tight seal to form. Unfortunately, the factory IP-67 dust and water resistence of the iPhone will be lost, so try to avoid getting the phone wet to avoid water damage (although the seal should be decently good to keep out water and/or dust in normal use cases). </br>
 <br>
-After the replacement is complete, we can hopefully see in the battery settings that our battery health is back to 100%, and can enjoy the extended life of our smartphone for a fraction of the cose of a new one!</br>
+After the replacement is complete, we can hopefully see in the battery settings that our battery health is back to 100%, and can enjoy the extended life of our smartphone for a fraction of the cost of a new one!</br>
 
 <details>
   <summary>Expand image</summary>
